@@ -12,10 +12,17 @@
 | DEEPSEEK | 翻譯輔助 |
 | 翻譯記憶庫 | 保持術語一致性 |
 
+## 📁 讀寫權限
+
+| 動作 | 範圍 |
+|------|------|
+| 讀取 | 整個 `AI_Agent_Training/` folder |
+| 寫入 | `01_Action_Center/outputs/drafts/`、`01_Action_Center/outputs/test_logs/`、`01_Action_Center/outputs/archive/` |
+
 ## ⚠️ 先問才可以用
 
 - 建立或修改 folder structure
-- 寫入、搬移、重新命名任何 file
+- 寫入、搬移、重新命名任何 file（上述範圍以外）
 
 ## 🚫 禁止
 
