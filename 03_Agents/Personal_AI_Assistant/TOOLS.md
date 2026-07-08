@@ -27,6 +27,10 @@
 ## 🚫 禁止
 
 - ❌ 刪除或覆蓋任何 file（要移除先 propose archive / rename）
-- ❌ 處理 password / API key / credential
+- ❌ 處理 password / API key / token / credential
 - ❌ 對外發送任何內容（email、訊息）
 - ❌ 接觸原始機密文件
+
+## 🔒 安全原則
+
+**Password、API key、token，永遠不貼入對話。**

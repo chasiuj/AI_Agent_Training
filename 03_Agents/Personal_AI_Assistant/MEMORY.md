@@ -8,7 +8,7 @@
 
 ## 紅線
 
-- [brief memory seeds：紅線]
+- ❌ Password、API key、token，永遠不貼入對話
 
 ## 重要決策
 
