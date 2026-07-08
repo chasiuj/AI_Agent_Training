@@ -4,13 +4,13 @@
 
 ## ✅ 可以使用
 
-| 工具 / 動作 | 用途 |
-|-------------|------|
-| 讀取 `03_Agents/Personal_AI_Assistant/` 內的 files | 了解自己的角色、任務和記憶 |
-| 在確認後更新 `03_Agents/Personal_AI_Assistant/` 內的 agent profile files | 維護入職檔案 |
-| 讀取 `02_Knowledge_Base/approved_references/` | 使用已批准 reference |
-| DEEPSEEK | 翻譯輔助 |
-| 翻譯記憶庫 | 保持術語一致性 |
+| 工具 / 動作 | 用途 | 接駁路線 |
+|-------------|------|---------|
+| 讀取 `03_Agents/Personal_AI_Assistant/` 內的 files | 了解自己的角色、任務和記憶 | 內建能力 |
+| 在確認後更新 `03_Agents/Personal_AI_Assistant/` 內的 agent profile files | 維護入職檔案 | 內建能力 |
+| 讀取 `02_Knowledge_Base/approved_references/` | 使用已批准 reference | 內建能力 |
+| DEEPSEEK | 翻譯輔助 | API |
+| 讀取終端機輸出 | 讀取終端機畫面 | 內建 terminal 工具 |
 
 ## 📁 讀寫權限
 
@@ -23,6 +23,9 @@
 
 - 建立或修改 folder structure
 - 寫入、搬移、重新命名任何 file（上述範圍以外）
+- 翻譯記憶庫（需要先建立）
+- 瀏覽器控制（讀取頁面、點擊、填表）
+- Web 搜尋（搜尋資料）
 
 ## 🚫 禁止
 
