@@ -9,6 +9,7 @@
 | 在確認後更新 `03_Agents/Personal_AI_Assistant/` 內的 agent profile files | 維護入職檔案 | 內建能力 |
 | 讀取 `02_Knowledge_Base/approved_references/` | 使用已批准 reference | 內建能力 |
 | 讀取終端機輸出 | 讀取終端機畫面 | 內建 terminal 工具 |
+| IMAP email 讀取 | 自動檢查並翻譯新 email | IMAP/API |
 
 ## 🟡 先問才可以用
 
